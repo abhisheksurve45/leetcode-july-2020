@@ -18,7 +18,7 @@ public class ArrangingCoins {
 
     /**
      * Math solution
-     * Reference : https://leetcode.com/problems/arranging-coins/discuss/92298/Java-O(1)-Solution-Math-Problem
+     * Reference : @see <a href="https://leetcode.com/problems/arranging-coins/discuss/92298/Java-O(1)-Solution-Math-Problem">LEETCODE DISCUSS</a>
      */
     class Solution {
         public int arrangeCoins(int n) {

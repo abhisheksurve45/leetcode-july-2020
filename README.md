@@ -8,6 +8,8 @@ Q. [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding
 
 Q. [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/BinaryTreeLevelOrderTraversalII.java)
 
+Q. [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/PrisonCellsAfterNDays.java)
+
 ## WEEK 2
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

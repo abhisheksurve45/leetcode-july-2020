@@ -16,6 +16,8 @@ Q. [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcodin
 
 Q. [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/PlusOne.java)
 
+Q. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/IslandPerimeter.java)
+
 ## WEEK 2
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

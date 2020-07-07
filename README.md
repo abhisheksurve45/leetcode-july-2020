@@ -22,7 +22,7 @@ Q. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcodin
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
-## WEEK 3🔄 🚧
+## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 

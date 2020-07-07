@@ -2,7 +2,7 @@
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
-## WEEK 1
+## WEEK 1 ✅
 
 Q. [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/ArrangingCoins.java)
 
@@ -18,18 +18,18 @@ Q. [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challe
 
 Q. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/IslandPerimeter.java)
 
-## WEEK 2
+## WEEK 2 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
-## WEEK 3
+## WEEK 3🔄 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
-## WEEK 4
+## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
-## WEEK 5
+## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

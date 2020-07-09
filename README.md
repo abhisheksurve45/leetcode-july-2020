@@ -22,6 +22,8 @@ Q. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcodin
 
 Q. [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/3Sum.java)
 
+Q. [Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/MaximumWidthofBinaryTree.java)
+
 ## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

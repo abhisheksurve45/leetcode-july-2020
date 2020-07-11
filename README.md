@@ -1,4 +1,5 @@
-# Solutions for Leetcode July 2020 in `JAVA` 
+# Solutions for Leetcode July 2020 in `JAVA`  <img src="https://visitor-badge.glitch.me/badge?page_id=abhisheksurve45.leetcode-july-2020" alt="visitor badge"/>
+
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 

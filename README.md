@@ -19,7 +19,7 @@ Q. [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challe
 
 Q. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK1/IslandPerimeter.java)
 
-## WEEK 2 🚧
+## WEEK 2 ✅
 
 Q. [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/3Sum.java)
 
@@ -32,6 +32,8 @@ Q. [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challen
 Q. [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/ReverseBits.java)
 
 Q. [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/SameTree.java)
+
+Q. [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK2/AngleBetweenHandsofClock.java)
 
 ## WEEK 3 🚧
 

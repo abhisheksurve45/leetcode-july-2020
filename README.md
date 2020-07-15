@@ -37,7 +37,7 @@ Q. [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/
 
 ## WEEK 3 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
+Q. [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/ReverseWordsinString.java)
 
 ## WEEK 4 🚧
 

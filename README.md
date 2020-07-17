@@ -41,6 +41,8 @@ Q. [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-
 
 Q. [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/Pow.java)
 
+Q. [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/TopKFrequentElements.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

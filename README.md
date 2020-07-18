@@ -43,6 +43,8 @@ Q. [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-chall
 
 Q. [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/TopKFrequentElements.java)
 
+Q. [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/CourseScheduleII.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

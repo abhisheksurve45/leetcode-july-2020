@@ -53,7 +53,7 @@ Q. [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-cha
 
 ## WEEK 4 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
+Q. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/BinaryTreeZigzagLevelOrderTraversal.java)
 
 ## WEEK 5 🚧
 

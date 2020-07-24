@@ -57,6 +57,8 @@ Q. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/chall
 
 Q. [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/SingleNumberIII.java)
 
+Q. [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/AllPathsFromSourcetoTarget.java)
+
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

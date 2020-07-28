@@ -65,6 +65,8 @@ Q. [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-chal
 
 Q. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/BinaryTreefromInorderPostorderTraversal.java)
 
+Q. [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/TaskScheduler.java)
+
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)

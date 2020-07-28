@@ -51,7 +51,7 @@ Q. [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/jul
 
 Q. [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK3/WordSearch.java)
 
-## WEEK 4 🚧
+## WEEK 4 ✅
 
 Q. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK4/BinaryTreeZigzagLevelOrderTraversal.java)
 

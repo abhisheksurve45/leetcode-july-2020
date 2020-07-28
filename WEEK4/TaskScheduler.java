@@ -1,5 +1,8 @@
 public class TaskScheduler {
 
+    /**
+     * Intutive approach
+     */
     class Solution {
         public int leastInterval(char[] tasks, int n) {
 
@@ -40,6 +43,32 @@ public class TaskScheduler {
             }
 
             return currentTime;
+        }
+    }
+
+    /**
+     * Approach based on : https://leetcode.com/problems/task-scheduler/discuss/760131/Java-Concise-Solution-Intuition-Explained-in-Detail
+     */
+    class Solution {
+        public int leastInterval(char[] tasks, int n) {
+
+            int[] maxFreq = new int[26];
+
+            for (char c : tasks) maxFreq[c - 'A']++;
+
+            Arrays.sort(maxFreq);
+
+            int max = maxFreq[25] - 1;
+            int spaces = max * n;
+
+            for (int i = 24; i >= 0; i--) {
+
+                spaces -= Math.min(maxFreq[i], max);
+            }
+
+            spaces = Math.max(0, spaces);
+
+            return tasks.length + spaces;
         }
     }
 }

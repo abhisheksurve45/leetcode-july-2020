@@ -1,7 +1,8 @@
 # Solutions for Leetcode July 2020 in `JAVA`  | <img src="https://visitor-badge.laobi.icu/badge?page_id=abhisheksurve45.leetcode-july-2020" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/abhisheksurve45/leetcode-july-2020/master)
 
-
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
+
+Recommended youtube channel ➡ [Algorithms Made Easy!](https://www.youtube.com/playlist?list=PLJtzaiEpVo2wrUwkvexbC-vbUqVIy7qC-) 🔥
 
 ## WEEK 1 ✅
 

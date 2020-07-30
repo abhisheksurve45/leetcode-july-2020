@@ -1,5 +1,8 @@
 public class WordBreakII {
 
+    /**
+     * Reference : https://medium.com/@salonikaurone/leetcode-word-break-ii-explained-d41ecfbe8fc5
+     */
     class Solution {
 
         public List<String> wordBreak(String s, List<String> wordDict) {

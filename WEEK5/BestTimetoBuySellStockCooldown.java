@@ -34,4 +34,25 @@ public class BestTimetoBuySellStockCooldown {
             return dp[n - 1][0];
         }
     }
+
+    /**
+     * Reference : https://www.youtube.com/watch?v=UlWFaWv8wWU
+     */
+    class Solution {
+
+        public int maxProfit(int[] prices) {
+
+            int sold = Integer.MIN_VALUE, held = Integer.MIN_VALUE, reset = 0;
+
+            for (int price : prices) {
+                int presold = sold;
+                sold = held + price;
+                held = Math.max(held, reset - price);
+                reset = Math.max(reset, presold);
+            }
+
+            return Math.max(reset, sold);
+        }
+    }
+
 }

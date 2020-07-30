@@ -70,3 +70,5 @@ Q. [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-
 ## WEEK 5 🚧
 
 Q. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK5/BestTimetoBuySellStockCooldown.java)
+
+Q. [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/)  ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-july-2020/blob/master/WEEK5/WordBreakII.java)
